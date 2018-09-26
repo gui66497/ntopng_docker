@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER fangguitang
+MAINTAINER fangguitang<gui66497@163.com>
 
 RUN apt-get update
 RUN apt-get -y -q install wget lsb-core
